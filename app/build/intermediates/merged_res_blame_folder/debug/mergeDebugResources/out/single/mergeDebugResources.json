@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_hamburguer.jpg.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/hamburguer.jpg"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_coxinha.jpg.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/coxinha.jpg"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_sushi.jpg.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/sushi.jpg"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_pizza.jpg.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/pizza.jpg"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_logo.png.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/logo.png"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_macarrao.jpg.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/macarrao.jpg"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_bolodechocolate.jpg.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/bolodechocolate.jpg"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/drawable_pudim.jpg.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/drawable/pudim.jpg"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pedrogomes.estruturaandroid.app-debug-33:/layout_tela2.xml.flat",
+        "source": "com.pedrogomes.estruturaandroid.app-main-35:/layout/tela2.xml"
+    }
+]
