@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.EtimPamIPedroGomesAppDelivery" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.EstruturaAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> a1cedeeabe497e2fee359639bac44ba053a3dd3f
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.EtimPamIPedroGomesAppDelivery" parent="Base.Theme.EtimPamIPedroGomesAppDelivery" />
+=======
+    <style name="Theme.EstruturaAndroid" parent="Base.Theme.EstruturaAndroid" />
+>>>>>>> a1cedeeabe497e2fee359639bac44ba053a3dd3f
 </resources>

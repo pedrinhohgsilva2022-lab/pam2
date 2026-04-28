@@ -3,13 +3,21 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.pedro.etimpamipedrogomesappdelivery"
+=======
+    namespace = "com.pedrogomes.estruturaandroid"
+>>>>>>> a1cedeeabe497e2fee359639bac44ba053a3dd3f
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.pedro.etimpamipedrogomesappdelivery"
+=======
+        applicationId = "com.pedrogomes.estruturaandroid"
+>>>>>>> a1cedeeabe497e2fee359639bac44ba053a3dd3f
         minSdk = 24
         targetSdk = 36
         versionCode = 1

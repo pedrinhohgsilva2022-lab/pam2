@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Etim PamI Pedro Gomes App Delivery</string>
+=======
+    <string name="app_name">estrutura android</string>
+>>>>>>> a1cedeeabe497e2fee359639bac44ba053a3dd3f
 </resources>

@@ -10,6 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.EtimPamIPedroGomesAppDelivery">
         <activity
             android:name=".LoginActivity"
@@ -20,6 +21,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+=======
+        android:theme="@style/Theme.EstruturaAndroid">
+>>>>>>> a1cedeeabe497e2fee359639bac44ba053a3dd3f
         <activity
             android:name=".MainActivity"
             android:exported="true">
