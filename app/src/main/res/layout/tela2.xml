@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAF0E6">
+
+    <EditText
+        android:layout_width="268dp"
+        android:layout_height="51dp"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="53dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:text="Login"
+        android:textSize="33sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="164dp"
+        tools:layout_editor_absoluteY="45dp" />
+
+    <EditText
+        android:layout_width="331dp"
+        android:layout_height="37dp"
+        android:hint="Ex: senha123!"
+        android:textSize="13sp"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="236dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="328dp"
+        android:layout_height="44dp"
+        android:hint="Ex: senha123!"
+        android:textSize="13sp"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <TextView
+        android:layout_width="327dp"
+        android:layout_height="22dp"
+        android:fontFamily="arial"
+        android:text="Seu email/telefone"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="119dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="arial"
+        android:text="Sua senha"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="212dp" />
+
+    <CheckBox
+        android:layout_width="18dp"
+        android:layout_height="17dp"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="273dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manter-me logado"
+</androidx.constraintlayout.widget.ConstraintLayout>
